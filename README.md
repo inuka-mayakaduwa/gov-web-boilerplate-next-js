@@ -7,7 +7,11 @@ This is a **Next.js** boilerplate template specifically designed for **governmen
 - **Multi-language support** (English / Sinhala / Tamil)
 - **Language prompt on homepage** for user selection
 - **Next.js App Router for frontend**, Pages Router for API routes
-- **Built with React.js, Bootstrap, and ShadCN components**
+- **Professional Header that indicates the website is an official government website & toggleable language**
+  
+  ![Government Website Header](https://i.imgur.com/zzi0eFD.png)
+  
+- **Built with ShadCN components**
 - **Modular and extendable architecture**
 
 ## 🎯 Usage Policy
@@ -20,7 +24,7 @@ This is a **Next.js** boilerplate template specifically designed for **governmen
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/nextjs-gov-boilerplate.git
+   git clone https://github.com/inuka-mayakaduwa/gov-web-boilerplate-next-js.git
    cd nextjs-gov-boilerplate
    ```
 
