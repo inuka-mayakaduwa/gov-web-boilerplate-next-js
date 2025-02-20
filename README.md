@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js Government Website Boilerplate for Sri Lanka
 
-## Getting Started
+This is a **Next.js** boilerplate template specifically designed for **government websites of Sri Lanka**. It includes a multi-language implementation supporting **English, Sinhala, and Tamil**, with a homepage prompt allowing users to select their preferred language.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Multi-language support** (English / Sinhala / Tamil)
+- **Language prompt on homepage** for user selection
+- **Next.js App Router for frontend**, Pages Router for API routes
+- **Built with React.js, Bootstrap, and ShadCN components**
+- **Modular and extendable architecture**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎯 Usage Policy
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+✅ This boilerplate is **freely available** for use **only when developing on behalf of a government website** in Sri Lanka.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+❌ If you are using this template for non-government purposes, please **remove any content that states "This is a government website"** and only use it for **language implementation**.
 
-## Learn More
+## 📌 Getting Started
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-repo/nextjs-gov-boilerplate.git
+   cd nextjs-gov-boilerplate
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Deploy on Vercel
+## 📢 Future Improvements
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This boilerplate will continue to evolve based on **feedback and feature requests**. If you have suggestions or find issues, please feel free to open an **issue** or contribute via **pull requests**.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📄 License
+
+This project is **open-source**, but its intended use is for **government-related projects** in Sri Lanka. For non-government projects, please **modify the content accordingly**.
+
+---
+
+> **Illuminating the Future of Tech** – A project by **Lunox**
